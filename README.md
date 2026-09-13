@@ -43,3 +43,5 @@ python wizard.py patch --config "C:\Users\Alex\AppData\Roaming\RetroArch\retroar
 ```
 
 Use `--dry-run` with any command to see what changes would be made without writing anything to disk.
+
+<!-- refreshed: 2026-09-13 -->
